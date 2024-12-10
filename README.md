@@ -11,6 +11,7 @@
 </p>
 
 <h3 align="left">🔨 Projetos pessoais:</h3>
+<a href="https://github.com/1zeno/teddy-test-rn-expo">Teste técnico RN + EXPO</a><br>
 <a href="https://github.com/1zeno/youtuwich">Youtuwich</a><br>
 <a href="https://github.com/1zeno/zeno-discord-bot-ts">Discord Bot</a><br>
 <a href="https://github.com/1zeno/codeleap-network">Codeleap Network</a><br>
